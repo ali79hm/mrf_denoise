@@ -1,0 +1,2 @@
+system denoise with python is 94.78416442871094% succceful!
+system denoise with Verlog is 94.78416442871094% succceful!
