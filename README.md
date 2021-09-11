@@ -7,7 +7,7 @@ data folder contain pictures and datas
 DataGenerator folder contain python files that converts picture to binary code to be undrestandable for hardware
 ReferenceModel and TestBench are both do same thing but ReferenceModel is python files and its a software denoise but TestBench is in verlog and its a hardware denoise
 ResultsChecker folder contains a python file that checks and plot denosied file
-## install 
+## before runing python files
 ```shell
 pip install numpy
 pip install image
